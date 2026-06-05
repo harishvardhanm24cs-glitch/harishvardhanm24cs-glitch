@@ -4,5 +4,5 @@
 ChatGPT Image Jun 5, 2026, 06_49_32 PM.png
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="ChatGPT Image Jun 5, 2026, 06_49_32 PM.png">
 </div>
