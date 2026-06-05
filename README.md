@@ -28,11 +28,10 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>I am a Computer Science Engineering student passionate about software development, problem-solving, and emerging technologies. I enjoy building practical solutions through Java, Python, web development, and database technologies while continuously expanding my knowledge in software engineering and system design.
+  <li>I am a Computer Science Engineering student with a strong interest in software development, problem-solving, and emerging technologies. I enjoy working with Java, Python, web technologies, and databases to build practical solutions that address real-world challenges.
 
-I actively work on academic and personal projects that help me strengthen my technical skills and gain hands-on experience in developing scalable and user-focused applications. I am particularly interested in full-stack development, cloud technologies, and innovative software solutions that create real-world impact.
+I am passionate about continuous learning and actively seek opportunities to enhance my technical and professional skills through projects, collaboration, and innovation. My goal is to contribute to impactful technology-driven solutions while growing as a software engineer and technology professional.
 
-Beyond technical skills, I value teamwork, continuous learning, and leadership. I am always eager to connect with professionals, collaborate on meaningful projects, and explore opportunities that challenge me to grow both personally and professionally.
 📧 [harishvardhanm24cs@psnacet.edu.in](mailto:harishvardhanm24cs@psnacet.edu.in)
 🔗 LinkedIn: linkedin.com/in/harsh-vardhan2005
 .</li>
