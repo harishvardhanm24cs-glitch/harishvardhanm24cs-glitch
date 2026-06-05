@@ -5,5 +5,14 @@
 *PITCH SPEAKER (Developer / Programmer)*
 <br /> 
 
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](Add link of potfolio) for more details about me.
+<!--End Intro-->
+
+---
