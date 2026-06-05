@@ -25,6 +25,18 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
+h3 align="left">ABOUT</h3>
+<ul align="left">
+  <li>I am a Computer Science Engineering student passionate about software development, problem-solving, and emerging technologies. I enjoy building practical solutions through Java, Python, web development, and database technologies while continuously expanding my knowledge in software engineering and system design.
+
+I actively work on academic and personal projects that help me strengthen my technical skills and gain hands-on experience in developing scalable and user-focused applications. I am particularly interested in full-stack development, cloud technologies, and innovative software solutions that create real-world impact.
+
+Beyond technical skills, I value teamwork, continuous learning, and leadership. I am always eager to connect with professionals, collaborate on meaningful projects, and explore opportunities that challenge me to grow both personally and professionally.
+
+📧 [harishvardhanm24cs@psnacet.edu.in](mailto:harishvardhanm24cs@psnacet.edu.in)
+🔗 LinkedIn: linkedin.com/in/harsh-vardhan2005
+.</li>
+</ul>
 <br />
 <br />
 <br />
