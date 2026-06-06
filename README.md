@@ -33,7 +33,7 @@
 <!--About Section-->
 <h3 align="left">ABOUT</h3>
 <ul align="left">
-  <li>I am a Computer Science Engineering student with a strong interest in software development, problem-solving, and emerging technologies. I enjoy working with Java, Python, web technologies, and databases to build practical solutions that address real-world challenges.
+  <li>I am a Computer Science Engineering student with a strong interest in Full Stack and Mern Stack, problem-solving, and emerging technologies. I enjoy working with Java, Python, web technologies, and databases to build practical solutions that address real-world challenges.
 
 I am passionate about continuous learning and actively seek opportunities to enhance my technical and professional skills through projects, collaboration, and innovation. My goal is to contribute to impactful technology-driven solutions while growing as a software engineer and technology professional.
 
